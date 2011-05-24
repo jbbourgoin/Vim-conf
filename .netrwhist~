@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/opt/lampp/htdocs/arvrobagan/themes/theme_avb'
+let g:netrw_dirhist_2='/home/jbbourgoin/Documents/Programmes/Graineed'
+let g:netrw_dirhist_3='/home/jbbourgoin/.prboom'
+let g:netrw_dirhist_4='/home/jbbourgoin/.config'
+let g:netrw_dirhist_5='/home/jbbourgoin/src'
